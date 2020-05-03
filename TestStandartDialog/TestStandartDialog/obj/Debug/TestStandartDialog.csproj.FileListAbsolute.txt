@@ -1,0 +1,19 @@
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+D:\WindowsForms\4\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+W:\учеба\win forms\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb

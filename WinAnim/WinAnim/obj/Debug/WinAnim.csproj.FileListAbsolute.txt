@@ -1,0 +1,10 @@
+W:\учеба\win forms\WinAnim\WinAnim\bin\Debug\WinAnim.exe.config
+W:\учеба\win forms\WinAnim\WinAnim\bin\Debug\WinAnim.exe
+W:\учеба\win forms\WinAnim\WinAnim\bin\Debug\WinAnim.pdb
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.csprojAssemblyReference.cache
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.exe
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.pdb
+W:\учеба\win forms\WinAnim\WinAnim\obj\Debug\WinAnim.Form1.resources

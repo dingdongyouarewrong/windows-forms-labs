@@ -1,0 +1,10 @@
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\bin\Debug\Laba 1 chapter 2.exe.config
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\bin\Debug\Laba 1 chapter 2.exe
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\bin\Debug\Laba 1 chapter 2.pdb
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba 1 chapter 2.csprojAssemblyReference.cache
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba_1_chapter_2.Form1.resources
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba_1_chapter_2.Properties.Resources.resources
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba 1 chapter 2.csproj.GenerateResource.cache
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba 1 chapter 2.exe
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba 1 chapter 2.pdb
+D:\WindowsForms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba_1_chapter_2.nForm.resources

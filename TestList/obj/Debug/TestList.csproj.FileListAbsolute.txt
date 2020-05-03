@@ -1,0 +1,10 @@
+W:\учеба\win forms\TestList\bin\Debug\TestList.exe.config
+W:\учеба\win forms\TestList\bin\Debug\TestList.exe
+W:\учеба\win forms\TestList\bin\Debug\TestList.pdb
+W:\учеба\win forms\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+W:\учеба\win forms\TestList\obj\Debug\TestList.Form1.resources
+W:\учеба\win forms\TestList\obj\Debug\TestList.Properties.Resources.resources
+W:\учеба\win forms\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+W:\учеба\win forms\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\TestList\obj\Debug\TestList.exe
+W:\учеба\win forms\TestList\obj\Debug\TestList.pdb

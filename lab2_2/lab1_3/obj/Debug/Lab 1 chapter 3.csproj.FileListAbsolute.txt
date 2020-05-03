@@ -1,0 +1,21 @@
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\bin\Debug\Lab 1 chapter 3.exe.config
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\bin\Debug\Lab 1 chapter 3.exe
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\bin\Debug\Lab 1 chapter 3.pdb
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.csprojAssemblyReference.cache
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab_1_chapter_3.ParentForm.resources
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab_1_chapter_3.Properties.Resources.resources
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.csproj.GenerateResource.cache
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.exe
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.pdb
+D:\WindowsForms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab_1_chapter_3.ChildForm.resources
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\bin\Debug\Lab 1 chapter 3.exe.config
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\bin\Debug\Lab 1 chapter 3.exe
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\bin\Debug\Lab 1 chapter 3.pdb
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.csprojAssemblyReference.cache
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab_1_chapter_3.ChildForm.resources
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab_1_chapter_3.ParentForm.resources
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab_1_chapter_3.Properties.Resources.resources
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.csproj.GenerateResource.cache
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.exe
+W:\учеба\win forms\1\Lab 1 chapter 3\Lab 1 chapter 3\obj\Debug\Lab 1 chapter 3.pdb

@@ -1,0 +1,13 @@
+W:\учеба\win forms\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+W:\учеба\win forms\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+W:\учеба\win forms\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+W:\учеба\win forms\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+W:\учеба\win forms\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+W:\учеба\win forms\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+W:\учеба\win forms\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache

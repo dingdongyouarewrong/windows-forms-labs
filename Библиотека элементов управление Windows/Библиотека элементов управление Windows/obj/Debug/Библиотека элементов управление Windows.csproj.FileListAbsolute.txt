@@ -1,0 +1,7 @@
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\bin\Debug\Библиотека элементов управление Windows.dll
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\bin\Debug\Библиотека элементов управление Windows.pdb
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\obj\Debug\Библиотека_элементов_управление_Windows.UserControlTimer2.resources
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\obj\Debug\Библиотека элементов управление Windows.csproj.GenerateResource.cache
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\obj\Debug\Библиотека элементов управление Windows.dll
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\obj\Debug\Библиотека элементов управление Windows.pdb
+D:\WindowsForms\3\Библиотека элементов управление Windows\Библиотека элементов управление Windows\obj\Debug\Библиотека_элементов_управление_Windows.UserControl1.resources

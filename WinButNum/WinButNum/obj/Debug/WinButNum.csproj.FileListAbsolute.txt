@@ -1,0 +1,9 @@
+D:\WindowsForms\3\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+D:\WindowsForms\3\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+D:\WindowsForms\3\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+D:\WindowsForms\3\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+D:\WindowsForms\3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+D:\WindowsForms\3\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+D:\WindowsForms\3\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
+D:\WindowsForms\3\WinButNum\WinButNum\obj\Debug\WinButNum.csprojAssemblyReference.cache
+D:\WindowsForms\3\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources

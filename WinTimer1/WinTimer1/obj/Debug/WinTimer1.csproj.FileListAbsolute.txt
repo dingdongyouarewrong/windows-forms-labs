@@ -1,0 +1,21 @@
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csprojAssemblyReference.cache
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+D:\WindowsForms\3\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+D:\WindowsForms\3\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+D:\WindowsForms\3\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+D:\WindowsForms\3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb
+W:\учеба\win forms\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+W:\учеба\win forms\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+W:\учеба\win forms\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csprojAssemblyReference.cache
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+W:\учеба\win forms\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb

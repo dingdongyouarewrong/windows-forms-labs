@@ -1,0 +1,10 @@
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\bin\Debug\Laba 1 chapter 2.exe.config
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\bin\Debug\Laba 1 chapter 2.exe
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\bin\Debug\Laba 1 chapter 2.pdb
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba_1_chapter_2.Form1.resources
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba_1_chapter_2.nForm.resources
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba_1_chapter_2.Properties.Resources.resources
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\lab1_2.csproj.GenerateResource.cache
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\lab1_2.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba 1 chapter 2.exe
+W:\учеба\win forms\1\Laba 1 chapter 2\Laba 1 chapter 2\obj\Debug\Laba 1 chapter 2.pdb

@@ -1,0 +1,10 @@
+W:\учеба\win forms\lab2\bin\Debug\lab2.exe.config
+W:\учеба\win forms\lab2\bin\Debug\lab2.exe
+W:\учеба\win forms\lab2\bin\Debug\lab2.pdb
+W:\учеба\win forms\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+W:\учеба\win forms\lab2\obj\Debug\lab2.WinQuestion.resources
+W:\учеба\win forms\lab2\obj\Debug\lab2.Properties.Resources.resources
+W:\учеба\win forms\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+W:\учеба\win forms\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\lab2\obj\Debug\lab2.exe
+W:\учеба\win forms\lab2\obj\Debug\lab2.pdb

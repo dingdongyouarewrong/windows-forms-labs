@@ -1,0 +1,20 @@
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csprojAssemblyReference.cache
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+D:\WindowsForms\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.pdb
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.csprojAssemblyReference.cache
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+D:\WindowsForms\2\WinLinkLabel Следующие\WinLinkLabel\obj\Debug\WinLinkLabel.pdb

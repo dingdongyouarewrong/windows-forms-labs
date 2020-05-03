@@ -1,0 +1,14 @@
+D:\WindowsForms\5\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+D:\WindowsForms\5\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+D:\WindowsForms\5\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+D:\WindowsForms\5\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+D:\WindowsForms\5\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csprojAssemblyReference.cache
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+D:\WindowsForms\5\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
