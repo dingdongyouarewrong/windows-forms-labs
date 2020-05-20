@@ -1,0 +1,30 @@
+E:\Gor-C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe.config
+E:\Gor-C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe
+E:\Gor-C#\PaintLite\PaintLite\bin\Debug\PaintLite.pdb
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.csprojResolveAssemblyReference.cache
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.Form1.resources
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.Properties.Resources.resources
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.GenerateResource.Cache
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.CoreCompileInputs.cache
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.exe
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.pdb
+D:\3 курс\C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe.config
+D:\3 курс\C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe
+D:\3 курс\C#\PaintLite\PaintLite\bin\Debug\PaintLite.pdb
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.csprojAssemblyReference.cache
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.Form1.resources
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.Properties.Resources.resources
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.GenerateResource.cache
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.CoreCompileInputs.cache
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.exe
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.pdb
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.csprojAssemblyReference.cache
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.Form1.resources
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.ColorsForm.resources
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.Properties.Resources.resources
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.GenerateResource.cache
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.CoreCompileInputs.cache
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.exe
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.pdb
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.Paint.resources
+W:\учеба\win forms\Labs-c-sharp-forms-master\Labs-c-sharp-forms-master\6-7\PaintLite\PaintLite\obj\Debug\PaintLite.ChooseColor.resources
